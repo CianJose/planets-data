@@ -139,3 +139,18 @@
     </table>
 </html>
 
+table{
+    border-collapse: collapse;
+}
+th
+{
+ background-color: aliceblue;
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
+tr:nth-child(even){
+    background-color: azure;
+
+}
